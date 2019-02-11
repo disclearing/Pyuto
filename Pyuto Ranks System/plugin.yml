@@ -1,0 +1,5 @@
+main: rip.pyuto.ranks.Ranks
+name: Ranks
+version: 1.0
+commands:
+  rank:
